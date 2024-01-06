@@ -1,0 +1,5 @@
+download.autodesk.com
+ase.autodesk.com
+autoupdatesvc.delivery.autodesk.com
+api.genuine.autodesk.com
+autodesk.com
