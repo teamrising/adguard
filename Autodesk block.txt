@@ -3,3 +3,12 @@
 ||autoupdatesvc.delivery.autodesk.com^
 ||api.genuine.autodesk.com^
 ||autodesk.com^
+||srv1.swupdate.chaosgroup.com^
+||swupdate.chaosgroup.com^
+||chaosgroup.com^
+||srv2.swupdate.chaos.com^
+||cosmos.chaos.com ols.chaosgroup.com^
+||accounts.chaos.com^
+||config.static.chaosgroup.com^
+||metrics.chaosgroup.com^
+||swupdate.vray.com^
