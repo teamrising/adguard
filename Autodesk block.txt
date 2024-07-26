@@ -12,3 +12,4 @@
 ||config.static.chaosgroup.com^
 ||metrics.chaosgroup.com^
 ||swupdate.vray.com^
+||d23yd8l3f4umg3.cloudfront.net^
